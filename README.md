@@ -29,8 +29,5 @@ npm install
 npm run dev
 ```
 
-Vercel Token: 
-vcp_6BN7k9kVsp7cK9aXbFlPn8vBKX3L6VBNoJj1z3jARtzSNL3eQz02sDPM
-
 *   Open http://localhost:5173/ in your browser to view the app.<br>
 *   Sometimes the port may be different depending on your setup so be sure to use the right port
